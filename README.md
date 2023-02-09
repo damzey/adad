@@ -4,8 +4,6 @@ This repository is a collection of Python projects that range from very easy to 
 
 Project 1: Amazon Web Scraper
 
-Project 2: Binary 
-
 Project 3: BMI Calculator
 
 Project 4: Choose Your Adventure 
